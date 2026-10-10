@@ -40,5 +40,5 @@ Tools that respect Arabic and right-to-left text: macOS apps, browser extensions
 
 <p align="center"><sub>
   تصميم وتطوير سلطان — Sultan · <a href="https://bysltan.com">bysltan.com</a><br>
-  للتواصل: <a href="mailto:iSultanby@gmail.com">iSultanby@gmail.com</a>
+  للتواصل: <a href="mailto:S@BySltan.com">S@BySltan.com</a>
 </sub></p>
