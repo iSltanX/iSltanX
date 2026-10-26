@@ -6,6 +6,7 @@
 
 | الأداة | ماذا تفعل | المنصة | التنزيل |
 |---|---|---|---|
+| [مِجهَر · Mijhar](https://github.com/iSltanX/Mijhar) | مساعدك على GitHub للقراءة بالعربية وفهم المستودعات | Chrome · Firefox · Edge | [صفحة الأداة](https://bysltan.com/Mjhr) |
 | [رصد · Rasd](https://github.com/iSltanX/rasd) | تفحص واجهات الويب بصريًا: التقاط وقياس وألوان ومقارنة | Chrome · Firefox | [Chrome Web Store](https://chromewebstore.google.com/detail/%D8%B1%D8%B5%D8%AF/kliiljnklheljhabgdefbdmkcmdkddce) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/%D8%B1%D8%B5%D8%AF-rasd/) |
 | [خزف · Khazaf](https://github.com/iSltanX/obsidian-khazaf) | ثيم للكتابة العربية الطويلة | Obsidian | [دليل الثيمات](https://community.obsidian.md/themes/khazaf) |
 | [بدّل · Baddel](https://github.com/iSltanX/Baddel) | يصحّح النص المكتوب بتخطيط لوحة المفاتيح الخطأ | macOS | [![آخر إصدار](https://img.shields.io/github/v/release/iSltanX/Baddel?label=DMG&style=flat-square&color=0D786C)](https://github.com/iSltanX/Baddel/releases/latest) |
@@ -26,6 +27,7 @@ Tools that respect Arabic and right-to-left text: macOS apps, browser extensions
 
 | Tool | What it does | Platform | Download |
 |---|---|---|---|
+| [Mijhar](https://github.com/iSltanX/Mijhar) | Your GitHub companion for reading in Arabic and understanding repositories | Chrome · Firefox · Edge | [Tool page](https://bysltan.com/Mjhr) |
 | [Rasd](https://github.com/iSltanX/rasd) | Visual QA for web UIs: capture, measure, colours, compare | Chrome · Firefox | [Chrome Web Store](https://chromewebstore.google.com/detail/%D8%B1%D8%B5%D8%AF/kliiljnklheljhabgdefbdmkcmdkddce) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/%D8%B1%D8%B5%D8%AF-rasd/) |
 | [Khazaf](https://github.com/iSltanX/obsidian-khazaf) | Obsidian theme for long-form Arabic writing | Obsidian | [Theme directory](https://community.obsidian.md/themes/khazaf) |
 | [Baddel](https://github.com/iSltanX/Baddel) | Fixes text typed on the wrong keyboard layout | macOS | [![Latest release](https://img.shields.io/github/v/release/iSltanX/Baddel?label=DMG&style=flat-square&color=0D786C)](https://github.com/iSltanX/Baddel/releases/latest) |
